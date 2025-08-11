@@ -5,8 +5,6 @@
 </h1>
 
 
-
-### Stack & Tools
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cs,c,py,js,dotnet,visualstudio,vscode,pycharm,github,git,docker,linux" />
 </div>
