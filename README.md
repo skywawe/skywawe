@@ -4,12 +4,6 @@
   </a>
 </h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=500&lines=Working+on+secret+wrapper;Learning+reverse+engineering;Building+cool+stuff+with+code" alt="Typing Subtitle" />
-  </a>
-</p>
-
 
 
 ### Stack & Tools
