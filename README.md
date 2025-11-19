@@ -6,5 +6,5 @@
 
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,c,py,js,dotnet,visualstudio,vscode,pycharm,github,git,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=cs,c,rust,py,js,dotnet,visualstudio,vscode,pycharm,github,git,docker,linux" />
 </div>
